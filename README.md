@@ -8,5 +8,5 @@
 
 ```
 
-![Catching-Bytes](https://cdn.glitch.com/268b2099-bcb3-4ee8-a03b-387154e10385%2Fcatching-bytes.gif?v=1587687229235)
+
 
